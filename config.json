@@ -1,8 +1,8 @@
 {
-    "ownerNumber": ["6283144670363@s.whatsapp.net","6283144670363@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ RenzOfcོ ×፝֟͜×",
+    "ownerNumber": ["6287778405247@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ ReiOfcོ ×፝֟͜×",
     "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Renz-Mdོ ",
+    "botName": "ReiBot ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
@@ -18,6 +18,6 @@
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 10
     }
 }
