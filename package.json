@@ -1,5 +1,5 @@
 {
-  "name": "Haruka-Md",
+  "name": "Faat Bot",
   "version": "0.0.6",
   "description": "whatsapp bot with multi device.",
   "main": "haruka.js",
@@ -15,7 +15,7 @@
     "2022",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "faatbot",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "^4.4.0",
